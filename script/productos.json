@@ -1,0 +1,88 @@
+{
+    "productos": [
+      {
+        "id":1,  
+        "nombre": "Paleta de Sombras 8T Febble",
+        "precio": "20.000",
+        "imagen": "../public/img/PRODUCTO-SOMBRA-FEBBLE-8T.png",
+        "categoria": "rostro"
+      },
+      {
+        "id":2,
+        "nombre": "Paleta de Sombras Eyeshadow & Blusher Febble",
+        "precio": "30.000",
+        "imagen": "../public/img/PRODUCTO-sombra-febble-21-optimized.jpg",
+        "categoria": "rostro"
+      },
+      {
+        "id":3,
+        "nombre": "Paleta de Sombras Blackjack Anylady",
+        "precio": "26.000",
+        "imagen": "../public/img/PRODUCTO-sombra-blackjack3-optimized.jpg",
+        "categoria": "rostro"
+      },
+      {
+        "id":4,
+        "nombre": "Glitter Líquido Ushas",
+        "precio": "10.000",
+        "imagen": "../public/img/PRODUCTO-sombra-liquida-ushas-optimized2.jpg",
+        "categoria": "rostro"
+      },
+      {
+        "id":5,
+        "nombre": "Delineador con Sello",
+        "precio": "18.000",
+        "imagen": "../public/img/PRODUCTP-DELINEADOR-HANDAIYAN-1.png",
+        "categoria": "ojos"
+      },
+      {
+        "id":6,
+        "nombre": "Agua Micelar Garnier",
+        "precio": "12.000",
+        "imagen": "../public/img/PRODUCTO-AGUA-MICELAR-GANIER-GRANDE.png",
+        "categoria": "cuidado"
+      },
+      {
+        "id":7,
+        "nombre": "Base Truly Matte LA Colors",
+        "precio": "28.000",
+        "imagen": "../public/img/PRODUCTO-BASE-LA-COLORS1.jpg",
+        "categoria": "rostro"
+      },
+      {
+        "id":8,
+        "nombre": "Base Líquida Natural Look Ruby Rose",
+        "precio": "19.000",
+        "imagen": "../public/img/PRODUCTO-BASE-RUBY-ROSE.jpg",
+        "categoria": "rostro"
+      },
+      {
+        "id":9,
+        "nombre": "Pestañina Trópico Ruby Rose",
+        "precio": "14.000",
+        "imagen": "../public/img/PRODUCTO-PESTAÑINA-RUBY-ROSE.jpeg",
+        "categoria": "ojos"
+      },
+      {
+        "id":10,
+        "nombre": "Toalla Mágica Trendy",
+        "precio": "10.000",
+        "imagen": "../public/img/PRODUCTO-TRENDY-MAGIC-FACE-GIGANTE-optimized.jpg",
+        "categoria": "cuidado"
+      },
+      {
+        "id":11,
+        "nombre": "Toalla Mágica Trendy",
+        "precio": "10.000",
+        "imagen": "../public/img/PRODUCTO-TRENDY-MAGIC-FACE-GIGANTE-optimized.jpg",
+        "categoria": "ultimos"
+      },
+      {
+        "id":12,
+        "nombre": "Toalla Mágica Trendy",
+        "precio": "10.000",
+        "imagen": "../public/img/PRODUCTO-TRENDY-MAGIC-FACE-GIGANTE-optimized.jpg",
+        "categoria": "vistos"
+      }
+    ]
+  }
